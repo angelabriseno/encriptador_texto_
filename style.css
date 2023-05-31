@@ -377,6 +377,7 @@ input:checked + .slider:before {
       position: absolute;
       top: 3%;
       margin: 3% 3%;
+      padding: 2%;
       align-self: center;
       max-width: 22vw;
       max-height: 60%;
